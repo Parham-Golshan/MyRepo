@@ -1,8 +1,8 @@
 # Hi there!
 
 # I am interested in python, machine-learning and django.
-# My eager to programming made me quit and leave previous industry which I was
-# worked for almost 7 years and start a new profession.
+# My eager to programming made me quit and leave previous industry
+# which I had worked for almost 7 years and start a new profession.
 # I have done some personal projects such as programs to:
   - estimate a car price by inputing car model, milage and date of manufacture
     by using python, mysql, web scraping and machine-learning algorithm
